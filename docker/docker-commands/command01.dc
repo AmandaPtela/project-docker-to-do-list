@@ -1,0 +1,2 @@
+docker 
+docker create -i --name 01container alpine:3.12 echo 'opa'
