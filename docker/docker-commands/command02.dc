@@ -1,1 +1,1 @@
-docker run -d alpine:3.12
+docker start 01container
