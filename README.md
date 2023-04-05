@@ -1,7 +1,7 @@
 <strong> Docker To-do List </strong><br />
 
 O projeto consiste em desenvolver arquivos de configuração Docker. 
-Usan comando Docker para criar, iniciar, remover e parar imagens docker; criar _docker-compose_ e _DockerFile_.
+Usando comandos _Docker_ para criar, iniciar, remover e parar imagens docker; criar _docker-compose_ e _DockerFile_.
 
   <summary><strong>Rodando o projeto localmente‼️ </strong></summary><br />
   
